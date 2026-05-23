@@ -1,0 +1,8 @@
+Repositorio
+Es la carpeta principal donde se guarda todo el código y el historial de cambios de un proyecto. Es como el cuaderno oficial donde se registra todo lo que se ha hecho en el proyecto.
+
+Commit
+Es una foto instantánea de los cambios que hice en mi código en un momento determinado. Cada commit lleva un mensaje que describe qué se modificó, por ejemplo: "agregué el formulario de contacto". Es como guardar una versión del documento con una nota que explica qué cambiaste.
+
+Push
+Es el comando que envía los commits que tienes guardados en la computadora hacia el repositorio remoto en GitHub. Es como subir los cambios a la nube para que otros puedan verlos o para tenerlos respaldados. Sin el push, los cambios solo existen en tu computadora.
