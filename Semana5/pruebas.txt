@@ -1,0 +1,9 @@
+http://localhost:3000
+Ruta principal del servidor. Responde con un mensaje de bienvenida o confirmación de que el servidor está funcionando.
+
+http://localhost:3000/saludo
+Ruta /saludo. El servidor responde con un mensaje de saludo general definido en esa ruta.
+
+http://localhost:3000/mensaje/juan
+Ruta dinámica /mensaje/:nombre. El servidor recibe
+"juan" como parámetro y responde con un mensaje personalizado usando ese nombre.

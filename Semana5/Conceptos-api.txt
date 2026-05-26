@@ -1,0 +1,5 @@
+¿Qué hace la ruta post?
+Básicamente es una ruta que recibe un mensaje que alguien le manda al servidor y el servidor le responde confirmando que lo recibió. Como cuando le mandas un mensaje a alguien y te aparece el "visto".
+
+¿Para qué serviría en una app comunitaria?
+Imagínate una app del barrio donde los vecinos pueden reportar problemas como un hueco en la calle, un poste dañado o basura acumulada. El vecino escribe el problema, lo envía y el servidor responde confirmando que el reporte llegó.
