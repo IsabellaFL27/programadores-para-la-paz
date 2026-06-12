@@ -1,0 +1,21 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir
+reportes o información enviada por los ciudadanos de forma estructurada?
+ 
+Que las plataformas tecnológicas puedan recibir información de los ciudadanos
+de forma estructurada es fundamental para construir comunidades más eficientes
+y participativas. Cuando los datos llegan organizados en un formato como JSON,
+las instituciones pueden procesarlos de manera automática, sin necesidad de
+interpretar textos libres o llamadas telefónicas que pueden prestarse a errores.
+ 
+Esto permite que los reportes lleguen directamente a los sistemas de gestión,
+donde pueden ser clasificados, priorizados y asignados al equipo responsable
+en cuestión de segundos. En ciudades como Cartagena, donde existen múltiples
+necesidades comunitarias —desde problemas de infraestructura hasta situaciones
+de salud pública—, contar con canales digitales estructurados significa que
+ningún reporte se pierda y que la respuesta del Estado sea más rápida y efectiva.
+ 
+Además, la información estructurada permite generar estadísticas e informes que
+ayudan a los tomadores de decisiones a identificar patrones, zonas críticas y
+necesidades recurrentes. Esto transforma la participación ciudadana en datos
+útiles para la planeación urbana y social, haciendo que la voz de cada persona
+tenga un impacto real y medible en su comunidad.
