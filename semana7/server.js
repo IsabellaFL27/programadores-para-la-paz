@@ -3,29 +3,29 @@ const app = express();
 
 app.use(express.json());
 
-app.post('/registro', (req, res) => {
+let reportes = [];
 
-  const nombre = req.body.nombre;
-  const mensaje = req.body.mensaje;
+app.get('/reportes', (req, res) => {
+  res.json(reportes);
+});
+
+app.post('/reportes', (req, res) => {
+
+  const reporte = {
+    id: reportes.length + 1,
+    tipo: req.body.tipo,
+    descripcion: req.body.descripcion
+  };
+
+  reportes.push(reporte);
 
   res.json({
-    estado: "Datos recibidos",
-    nombre: nombre,
-    mensaje: mensaje
+    mensaje: "Reporte registrado",
+    reporte: reporte
   });
 
 });
 
 app.listen(3000, () => {
   console.log('Servidor ejecutándose en puerto 3000');
-});
-app.post('/incidencia', (req, res) => {
-  const tipo = req.body.tipo;
-  const descripcion = req.body.descripcion;
-
-  res.json({
-    mensaje: "Incidencia registrada",
-    tipo: tipo,
-    descripcion: descripcion
-  });
 });
