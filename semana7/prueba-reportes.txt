@@ -1,0 +1,4 @@
+La ruta GET /reportes está devolviendo todos los reportes guardados. Tengo dos registros:
+
+Reporte 1 — se guardó sin tipo ni descripción, ya que fue una prueba inicial
+Reporte 2 — tiene tipo "Infraestructura" y descripción "Daño en alumbrado público", este está completo

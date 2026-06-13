@@ -1,0 +1,8 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Presencia de alumbrado público dañado en el parque central del barrio, generando inseguridad en horas nocturnas"
+}
+{
+  "tipo": "Convivencia",
+  "descripcion": "Vertimiento de aguas residuales en el caño del sector, afectando la salud de los habitantes cercanos"
+}
